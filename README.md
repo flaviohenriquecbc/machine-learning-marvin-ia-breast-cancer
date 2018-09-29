@@ -1,6 +1,6 @@
 # Breast Cancer detection project
 
-First project with the study group Marvin IA (https://marvin-ia.slack.com).
+First project with the study group Marvin AI (https://marvin-ia.slack.com).
 
 TODO: Better description of the process, code and what we are trying to reach.
 
